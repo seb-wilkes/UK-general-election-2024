@@ -11,3 +11,5 @@ The counterfactual I have done is to ask if a voter of Reform decided to defect,
 For simplicity I am, in effect, taking the expectation of that game. I could do it probabilistically and get an error bar (perhaps a future update?)
 
 After advice from more politically savy individuals, I also added a functionality to say what the probability of switching from Reform to another party.
+
+**Note** this work has been made without any AI / chatbots, with the exception of the plotting (I've done my time writing that 1000x over).
