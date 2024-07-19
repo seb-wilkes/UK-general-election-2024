@@ -2,7 +2,7 @@
 
 I took the data as is straight from https://commonslibrary.parliament.uk/research-briefings/cbp-10009/ 
 
-The notebook included so far is to ask the question "How much of a threat was Reform UK to the Conservative Party?". A common message during the latter's campaign was that voting reform would put Labour in power. I was curious to see how true it was. 
+The notebook included so far is to ask the question "How much of a threat was _Reform UK_ to the_ Conservative Party_?". A common message during the latter's campaign was that voting _Reform_ would put _Labour_ in power. I was curious to see how true it was. 
 
 ## The main idea
 
